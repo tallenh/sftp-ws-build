@@ -1,5 +1,6 @@
 sftp-ws
 =======
+This is the build directory from the sftp-ws project from lukaash.  I wanted to use the latest from master but it cannot be installed directly with NPM since the project is written in typescript and needs to be compiled before use.  I have uploaded the built version here so it can be installed directly with NPM.  Original Readme follows.
 
 v0.3.0
 ------
